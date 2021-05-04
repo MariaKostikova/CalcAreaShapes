@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\repos\\CalcAreaShapes\\CalcAreaShapes\\CalcAreaShapes.csproj": {}
+    "F:\\repos\\CalcAreaShapes\\LibCalcArea\\LibCalcArea.csproj": {}
   },
   "projects": {
-    "F:\\repos\\CalcAreaShapes\\CalcAreaShapes\\CalcAreaShapes.csproj": {
+    "F:\\repos\\CalcAreaShapes\\LibCalcArea\\LibCalcArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\repos\\CalcAreaShapes\\CalcAreaShapes\\CalcAreaShapes.csproj",
-        "projectName": "CalcAreaShapes",
-        "projectPath": "F:\\repos\\CalcAreaShapes\\CalcAreaShapes\\CalcAreaShapes.csproj",
+        "projectUniqueName": "F:\\repos\\CalcAreaShapes\\LibCalcArea\\LibCalcArea.csproj",
+        "projectName": "LibCalcArea",
+        "projectPath": "F:\\repos\\CalcAreaShapes\\LibCalcArea\\LibCalcArea.csproj",
         "packagesPath": "C:\\Users\\kosti\\.nuget\\packages\\",
-        "outputPath": "F:\\repos\\CalcAreaShapes\\CalcAreaShapes\\obj\\",
+        "outputPath": "F:\\repos\\CalcAreaShapes\\LibCalcArea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

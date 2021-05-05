@@ -35,6 +35,13 @@ namespace LibCalcArea.Shapes
             }
         }
 
+        public bool IsRightTriangle()
+        {
+            return (A == (Math.Pow(B, 2) + Math.Pow(C, 2)) 
+                    || B == (Math.Pow(A, 2) + Math.Pow(C, 2)) 
+                    || C == (Math.Pow(A, 2) + Math.Pow(B,2)));
+        }
+
 
         public override string ToString()
         {

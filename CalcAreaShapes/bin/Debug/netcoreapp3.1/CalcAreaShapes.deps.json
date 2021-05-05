@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalcAreaShapes/1.0.0": {
+        "dependencies": {
+          "LibCalcArea": "1.0.0"
+        },
+        "runtime": {
+          "CalcAreaShapes.dll": {}
+        }
+      },
+      "LibCalcArea/1.0.0": {
+        "runtime": {
+          "LibCalcArea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcAreaShapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibCalcArea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

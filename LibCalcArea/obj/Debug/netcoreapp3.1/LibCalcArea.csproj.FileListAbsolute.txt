@@ -1,0 +1,8 @@
+F:\repos\CalcAreaShapes\LibCalcArea\bin\Debug\netcoreapp3.1\LibCalcArea.deps.json
+F:\repos\CalcAreaShapes\LibCalcArea\bin\Debug\netcoreapp3.1\LibCalcArea.dll
+F:\repos\CalcAreaShapes\LibCalcArea\bin\Debug\netcoreapp3.1\LibCalcArea.pdb
+F:\repos\CalcAreaShapes\LibCalcArea\obj\Debug\netcoreapp3.1\LibCalcArea.csprojAssemblyReference.cache
+F:\repos\CalcAreaShapes\LibCalcArea\obj\Debug\netcoreapp3.1\LibCalcArea.AssemblyInfoInputs.cache
+F:\repos\CalcAreaShapes\LibCalcArea\obj\Debug\netcoreapp3.1\LibCalcArea.AssemblyInfo.cs
+F:\repos\CalcAreaShapes\LibCalcArea\obj\Debug\netcoreapp3.1\LibCalcArea.dll
+F:\repos\CalcAreaShapes\LibCalcArea\obj\Debug\netcoreapp3.1\LibCalcArea.pdb

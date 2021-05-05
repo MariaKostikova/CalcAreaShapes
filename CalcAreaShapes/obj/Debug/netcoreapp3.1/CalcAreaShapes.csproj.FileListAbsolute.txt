@@ -1,0 +1,14 @@
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.exe
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.deps.json
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.runtimeconfig.json
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.runtimeconfig.dev.json
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.dll
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\CalcAreaShapes.pdb
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\LibCalcArea.dll
+F:\repos\CalcAreaShapes\CalcAreaShapes\bin\Debug\netcoreapp3.1\LibCalcArea.pdb
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.csprojAssemblyReference.cache
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.AssemblyInfoInputs.cache
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.AssemblyInfo.cs
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.csproj.CopyComplete
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.dll
+F:\repos\CalcAreaShapes\CalcAreaShapes\obj\Debug\netcoreapp3.1\CalcAreaShapes.pdb

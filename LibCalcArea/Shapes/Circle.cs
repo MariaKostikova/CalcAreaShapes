@@ -12,15 +12,15 @@ namespace LibCalcArea.Shapes
 
         public Circle(double rad)
         {
-            Radius = rad;
+            this.Radius = rad;
         }
 
         public override string ToString()
         {
-            return "Радиус круга " + Radius + "\r\nПлощадь круга = " + Area;
+            return "О круге: \r\n" + "\r\n Радиус круга " + Radius + "\r\n Площадь круга = " + Area + "\r\n";
         }
 
-        public void ShowShape()
+        public void ShowAreaShape()
         {
             Console.WriteLine(ToString());
         }

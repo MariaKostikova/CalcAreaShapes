@@ -9,6 +9,6 @@ namespace LibCalcArea
     {
         double Area { get; }
 
-        void ShowShape();
+        void ShowAreaShape();
     }
 }

@@ -5,53 +5,63 @@ using System.Threading;
 
 namespace LibCalcArea.Shapes
 {
-    class Triangle : IShape
+    public class Triangle : IShape
     {
-        public int A { get; set; }
+        private int A { get; set; }
 
-        public int B { get; set; }
+        private int B { get; set; }
 
-        public int C { get; set; }
+        private int C { get; set; }
 
         public Triangle()
         {
-            A = B = C = default(int);
+            this.A = this.B = this.C = default(int);
             
         }
 
         public Triangle(int a, int b, int c)
         {
-            A = a;
-            B = b;
-            C = c;
+            if (A >= 0 && B >= 0 && C >= 0)
+            {
+                this.A = a;
+                this.B = b;
+                this.C = c;
+            }
+            else
+            {
+                throw new Exception("Value cannot be negative");
+            }
+            
         }
 
         public double Area
         {
             get
             {
-                var Perimeter = (A + B + C) / 2;
+                int Perimeter = (A + B + C) / 2;
                 return Math.Sqrt(Perimeter * (Perimeter - A) * (Perimeter - B) * (Perimeter - C));
             }
         }
 
         public bool IsRightTriangle()
         {
-            return (A == (Math.Pow(B, 2) + Math.Pow(C, 2)) 
-                    || B == (Math.Pow(A, 2) + Math.Pow(C, 2)) 
-                    || C == (Math.Pow(A, 2) + Math.Pow(B,2)));
+            return (A == Math.Sqrt(Math.Pow(B, 2) + Math.Pow(C, 2)) 
+                    || B == Math.Sqrt(Math.Pow(A, 2) + Math.Pow(C, 2)) 
+                    || C == Math.Sqrt(Math.Pow(A, 2) + Math.Pow(B,2)));
         }
 
 
         public override string ToString()
         {
-            return "Сторона А = " + A + 
+            return "О треугольнике: \r\n" +
+                   "\r\n Сторона А = " + A + 
                    "\r\n Сторона В = " + B +
                    "\r\n Сторона С = " + C +
-                   "\r\nПлощадь треугольника = " + Area;
+                   "\r\n Площадь треугольника = " + Area +
+                   "\r\n Треугольник прямоугольный? - " + IsRightTriangle() + "\r\n";
         }
 
-        public void ShowShape()
+        public void ShowAreaShape()
         {
             Console.WriteLine(ToString());
         }
